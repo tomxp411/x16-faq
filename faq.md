@@ -284,5 +284,6 @@ The team has included at various points:
 * Michael Steil - ROM (KERNAL, BASIC) and Emulator
 * Frank van den Hoef - VERA Video chip design
 * Michael Allison - Assembler environment
+* @MooingLemur - System Software and Emulator
 
 Credit must also be given to our excellent Discord and forum community, who have been testing, developing, and sharing software for the X16. Without their contributions, the computer would never have made it to production.
